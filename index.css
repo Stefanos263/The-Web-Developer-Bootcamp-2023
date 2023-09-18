@@ -1,0 +1,20 @@
+h2{
+    text-align: center;
+    color:teal;
+    background-color: papayawhip;
+    text-decoration: red underline wavy;
+    letter-spacing: 15px;
+    font-size: 30px;
+    font-family: fantasy;
+    
+ }
+ button{
+    color:magenta;
+    background-color: rgb(89,151,0);
+ }
+ p{
+    color:brown;
+ }
+ body{
+    background-color: rgb(56,34,78);
+ }
