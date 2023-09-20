@@ -18,3 +18,29 @@ h2{
  body{
     background-color: rgb(56,34,78);
  }
+ div {
+ width:200px;
+ height:200px;
+ background-color: purple;
+ }
+ #one {
+  background-color:red ;
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
+  box-sizing: border-box;
+  margin-left: 50px;
+  margin-bottom: 50px;
+ }
+ #two {
+   background-color:greenyellow ;
+   border-color: aqua;
+   border-width: 3px;
+   border-style: dashed;
+   box-sizing: border-box;
+ }
+ #three {
+ background-color:blue ;
+ border:4px dotted white;
+ box-sizing: border-box;
+ }
